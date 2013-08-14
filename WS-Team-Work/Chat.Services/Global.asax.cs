@@ -25,6 +25,7 @@ namespace Chat.Services
                 db.Database.Initialize(true);
             }
 
+
             AreaRegistration.RegisterAllAreas();
 
             WebApiConfig.Register(GlobalConfiguration.Configuration);
