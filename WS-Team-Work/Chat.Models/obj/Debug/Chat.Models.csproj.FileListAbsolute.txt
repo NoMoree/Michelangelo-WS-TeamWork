@@ -1,0 +1,5 @@
+C:\temp\Michelangelo-WS-TeamWork\WS-Team-Work\Chat.Models\bin\Debug\Chat.Models.dll
+C:\temp\Michelangelo-WS-TeamWork\WS-Team-Work\Chat.Models\bin\Debug\Chat.Models.pdb
+C:\temp\Michelangelo-WS-TeamWork\WS-Team-Work\Chat.Models\obj\Debug\Chat.Models.csprojResolveAssemblyReference.cache
+C:\temp\Michelangelo-WS-TeamWork\WS-Team-Work\Chat.Models\obj\Debug\Chat.Models.dll
+C:\temp\Michelangelo-WS-TeamWork\WS-Team-Work\Chat.Models\obj\Debug\Chat.Models.pdb
